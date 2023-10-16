@@ -1,4 +1,6 @@
-### Hi there 👋
+### 아이폰15 프로 맥스를 샀습니다.
+> 근데 원하는 앱이 없네요.
+> 그래서 만들어보겠습니다.😄
 
 <!--
 **lksee/lksee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
